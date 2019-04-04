@@ -16,7 +16,6 @@ In this project, I defined and trained a DCGAN on a dataset of celebrity faces. 
 1. Clone the repository and navigage to the downloaded folder.
 	```
 		git clone https://github.com/dhamijavarun/Face_Generator_DLND_Udacity
-		cd Face-Generation
 	```
 2. Open the `dlnd_face_generation.ipynb` file. You can also find HTML version of the file.
 	```
