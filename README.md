@@ -1,6 +1,6 @@
 [//]: # (Image Reference)
 
-[image1]: ./example.jpg "Generated Faces"
+[image1]: ./example.png "Generated Faces"
 
 # Face Generation 
 
